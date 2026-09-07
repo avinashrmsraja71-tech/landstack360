@@ -1,0 +1,6 @@
+{
+  "name": "LANDSTACK360",
+  "description": "One Parcel. One Identity. Complete Land Intelligence — Integrated GIS-Based Digital Land Governance Platform",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
